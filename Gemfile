@@ -55,3 +55,5 @@ gem 'devise'
 gem 'pry-rails'
 gem "jquery-rails"
 gem 'haml-rails'
+gem 'payjp'
+gem 'dotenv-rails'
